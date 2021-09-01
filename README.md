@@ -23,9 +23,7 @@ Step 3- Cretaed the Dockerfile which contains set of instructions to create dock
 Step 4- Build the docker image: Creted the docker images using command 
         $ docker image build -t docker-flask-test .
         and it created the image with name docker-flask-test. 
-      
         to verify it we can ran the command 
-     
         $ docker image ls and it should show us our created image with name docker-flask-test.
 
 Step 5- Now run the docker container using command 
